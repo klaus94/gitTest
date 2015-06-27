@@ -1,2 +1,2 @@
 test1
-test aus nicht-clone
+test aus clone
